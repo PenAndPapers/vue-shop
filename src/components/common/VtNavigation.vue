@@ -1,6 +1,6 @@
 <template>
   <nav class="vt-navigation">
-    <slot/>
+
   </nav>
 </template>
 

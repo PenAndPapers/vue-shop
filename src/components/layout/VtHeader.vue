@@ -1,6 +1,6 @@
 <template>
-  <header class="vt-header">
-    <slot/>
+  <header class="vt-header border-b-2 border-black">
+    header
   </header>
 </template>
 

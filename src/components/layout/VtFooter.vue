@@ -1,6 +1,6 @@
 <template>
   <footer class="vt-footer">
-    <slot/>
+    footer
   </footer>
 </template>
 
